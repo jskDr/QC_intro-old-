@@ -1,0 +1,5 @@
+! CCSD cc-pVTZ Opt
+! NUMGRAD
+
+*xyzfile 0 1 mol.xyz
+
